@@ -1,0 +1,6 @@
+
+Montserrat Medium  500
+Montserrat Regular 400
+Montserrat Semi Bold  600
+
+Playfair Display
